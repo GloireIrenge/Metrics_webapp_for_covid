@@ -2,6 +2,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 Metrics webapp for Covid-19 is a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux.
+![image](https://user-images.githubusercontent.com/37586807/194730865-16cfd97c-0946-480c-b96c-b8c553e76388.png)
+
 ## Built With
 - Javascript,
 - Node.js,
