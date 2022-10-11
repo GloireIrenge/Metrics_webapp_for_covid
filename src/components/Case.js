@@ -29,7 +29,7 @@ const Case = (props) => {
           <span>{id}</span>
         </div>
         <p>
-          Life expectancy:
+          cases:
           {' '}
           {/* eslint-disable-next-line camelcase */}
           {life_expectancy}
