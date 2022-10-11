@@ -5,6 +5,10 @@ Metrics webapp for Covid-19 is a mobile web application to check a list of Covid
 ![image](https://user-images.githubusercontent.com/37586807/194730923-4cd78927-9b3f-4fd2-b14d-573f843dbd9a.png)
 ## Video link
 https://drive.google.com/file/d/1sWpnJIeorRSgwlWG5tXFbIXoGRjED7p1/view?usp=sharing
+
+## Live demo
+https://moonlit-hamster-a02bc8.netlify.app/
+
 ## Built With
 - Javascript,
 - Node.js,
