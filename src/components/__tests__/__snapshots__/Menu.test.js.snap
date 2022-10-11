@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Menu /> Fetch Properly 1`] = `
+<section
+  className="Menu"
+>
+  <div>
+    <h3>
+      0
+      <span>
+         Total cases in the world
+      </span>
+    </h3>
+  </div>
+</section>
+`;
