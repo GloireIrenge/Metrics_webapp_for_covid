@@ -23,7 +23,7 @@ exports[`<Case /> fectch country cases 1`] = `
       <span />
     </div>
     <p>
-      Life expectancy:
+      cases:
        
     </p>
   </div>

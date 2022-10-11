@@ -41,12 +41,12 @@ Array [
     className="Menu"
   >
     <div>
-      <p>
+      <h3>
         0
         <span>
-           Cases
+           Total cases in the world
         </span>
-      </p>
+      </h3>
     </div>
   </section>,
   <section
